@@ -2,13 +2,14 @@
 
 > **Read-only archive of released versions of thesilwar/flarum-bbcode-button.** Not for installation: use [Packagist](https://packagist.org/packages/thesilwar/flarum-bbcode-button) or the [upstream repository](https://github.com/thesilwar/flarum-bbcode-button).
 
-**0** versions archived · Latest: [`v1.0.1`](https://github.com/flarchive/thesilwar-flarum-bbcode-button/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^1.0.0`
+**2** versions archived · Latest: [`v1.0.1`](https://github.com/flarchive/thesilwar-flarum-bbcode-button/tree/archive/v1.0.1) · License: `MIT` · Flarum: `^1.0.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2026-06-23 | `^1.0.0` | [Browse](https://github.com/flarchive/thesilwar-flarum-bbcode-button/tree/archive/v1.0.0) |
+| `v1.0.1` | 2026-06-23 | `^1.0.0` | [Browse](https://github.com/flarchive/thesilwar-flarum-bbcode-button/tree/archive/v1.0.1) |
 
 Catalog entry: [packages/thesilwar-flarum-bbcode-button.json](https://github.com/flarchive/archive-index/blob/main/packages/thesilwar-flarum-bbcode-button.json)
 
